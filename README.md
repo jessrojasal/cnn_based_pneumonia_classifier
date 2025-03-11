@@ -146,15 +146,19 @@ The top layers are customized for this binary classification problem:
 2. **Preprocess the data and train the model:**
    To preprocess the dataset and train the CNN model, open the `cnn_based_pneumonia_classifier.ipynb` notebook and run all the cells. This notebook includes the entire process from data preprocessing to model training.
 <br />
+
 3. **Evaluating the Model:**
    After training the model in the notebook, you can evaluate the performance using the evaluation section within the notebook. This will allow you to assess the model on the test dataset.
 <br />
+
 4. **Modify Hyperparameters and Training Settings:**
    If you wish to modify hyperparameters (e.g., batch size, number of epochs, learning rate), you can adjust these values directly in the notebook before running the training section.
 <br />
+
 5. **Save and Load Models:**
    The notebook also includes functionality for saving the trained model. You can load a saved model for further evaluation or prediction tasks.
 <br />
+
 6. **Help:**
    For any clarifications or instructions specific to the notebook, refer to the markdown cells and comments within `cnn_based_pneumonia_classifier.ipynb`.
 
